@@ -82,7 +82,7 @@ pyyaml==3.13
 requests==2.20.0
 retry==0.9.2
 rfc3986==1.1.0            # via tableschema
-rsa==4.0                  # via google-auth
+rsa==4.7                  # via google-auth
 s3transfer==0.1.13        # via boto3
 sasl==0.2.1               # via thrift-sasl
 selenium==3.14.0
